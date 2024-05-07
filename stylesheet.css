@@ -1,0 +1,23 @@
+ body{
+    font-style: italic;
+    border: 5px solid;
+    border-color: white;
+    background-image: url(background.jpg)
+     
+ }
+.title{
+    border-color: white;
+    border: 5px solid;
+}
+.food{
+    display: flex;
+    justify-content: center;
+    color:white;
+    
+}
+.div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: large;
+}
